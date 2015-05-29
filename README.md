@@ -1,0 +1,1 @@
+This is a remake of the classic boardgame Reversi. This was a project for an Intro to Computer Science course. There are a few bugs and the AI is not that great, but it is mostly functional. May go back and improve upon it.
